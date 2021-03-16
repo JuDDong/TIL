@@ -152,3 +152,6 @@ $ git config --global user.email '이메일주소'
 
 * 레포지토리이름을 `이름.github.io` 로 짓는다.
 
+
+
+#### branch, 협업전략(git flow, github flow, PR+fork), git 추가 명령어(reset, invert)
